@@ -1,0 +1,1 @@
+# Creating-a-resource-using-Terraform-and-Amazon-Bedrock-Day-4-
